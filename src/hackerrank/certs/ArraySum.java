@@ -1,4 +1,4 @@
-package certs;
+package hackerrank.certs;
 
 import java.util.Scanner;
 
