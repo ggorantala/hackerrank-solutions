@@ -1,4 +1,4 @@
-package hackerrank.problemsolving.warmup;
+package hackerrank.ps.warmup;
 
 import java.util.ArrayList;
 import java.util.List;

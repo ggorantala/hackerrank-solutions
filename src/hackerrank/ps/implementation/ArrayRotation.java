@@ -1,4 +1,4 @@
-package hackerrank.problemsolving.implementation;
+package hackerrank.ps.implementation;
 
 import java.util.ArrayList;
 import java.util.List;
