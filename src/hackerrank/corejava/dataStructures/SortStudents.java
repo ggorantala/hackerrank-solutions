@@ -39,7 +39,7 @@ public class SortStudents {
   }
 }
 
-class Student {
+public class Student {
   private int id;
   private String name;
   private double cgpa;

@@ -19,7 +19,6 @@ public class JavaDeque {
     Set<Integer> uniqueValues = new HashSet<>();
 
     for(int i = 0; i < nums.length - M + 1; i++) {
-
     }
     sc.close();
   }
